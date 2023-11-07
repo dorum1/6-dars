@@ -1,0 +1,42 @@
+.dd {
+ color: #F1D3B9;
+ background: rgb(179, 102, 0) ;
+ padding: 15px;
+ margin: 0%;
+}
+.rr {
+color: rgb(179, 102, 0);
+padding: 10px 0px;
+margin: 10px;
+border: 15px;
+
+}
+.qq {
+    width: 120px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+}
+.uu{
+    width: 242px;
+}
+.hh {
+    text-align: center;
+    color: white;
+    padding: 100px;
+
+}
+.df {
+    text-align: center;
+    padding: 10px 10px
+    px;
+    color: rgb(228, 152, 53);
+}
+.barchasi {
+    color: #ee984c;
+    display: inline;
+}
+.bn {
+    width: 500px;
+    background:rgb(238, 141, 14);
+}
